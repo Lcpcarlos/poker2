@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">poker</string>
+    <string name="salvar_o_aluno">Salvar o aluno</string>
+    <string name="remover">Remover</string>
+    <string name="nome">nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="sobreNome">sobreNome</string>
+</resources>
